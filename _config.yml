@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Odysseas Bouziotis"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Odysseas Bouziotis"
 description              : &description "personal description"
 url                      : https://odysseasb12.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "odysseasb12@hotmail.com or odysseas.bouziotis@postgrad.manchester.ac.uk
+  email            : "odysseasb12@hotmail.com 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
