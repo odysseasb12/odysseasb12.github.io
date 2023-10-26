@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Odysseas Bouziotis"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Mechanical/Robotics Engineer"
-  location         : "Manchester, England"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "odysseasb12@hotmail.com 
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "odysseasb12"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
