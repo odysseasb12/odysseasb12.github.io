@@ -13,7 +13,7 @@ name                     : &name "Odysseas Bouziotis"
 description              : &description "personal description"
 url                      : https://odysseasb12.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "odysseasb12/odysseasb12.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Odysseas Bouziotis"
   avatar           : "profile.png"
-  bio              : "Mechanical and soon to be a Robotics Engineer"
+  bio              : "Mechanical and Robotics Engineer"
   location         : "Manchester England"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+ 
+  
   email            : "odysseasb12@hotmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  
   vine             :
   weibo            :
   xing             :
