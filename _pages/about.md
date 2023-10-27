@@ -16,7 +16,7 @@ I am studying MSc Robotics and expected to finish in September 2024.
 
 I am particularly interested in programming languages such as Python, C, and Matlab while I am also fascinated in Machine Learning, Object Detection Techniques, and Convolutional Neural Networks (CNNs).
 
-More about me
+More About Me
 ======
 
 In July 2023 I graduated with honours from the University of Birmingham 🎓🎓🎓
@@ -36,7 +36,7 @@ Explore
 To further explore about projects that I have undertaken in the past feel free to refer to my personal portfolio for more information. If you want more details about my education and what I have done so far please refer to my CV.
 
 Contact Details
-------
+======
 If you want to contact me feel free to use the tabs on the left hand side to get access to my email, github and LinkedIn profile or see attached my phone number located in the top of my CV.
 
 ------
