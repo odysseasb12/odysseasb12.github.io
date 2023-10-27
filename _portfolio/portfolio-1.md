@@ -1,6 +1,6 @@
 ---
 title: "Final Year Project"
-excerpt: "Detection of Stair Lift Components using Roboflow and the YOLOv5 algorithm.<br/><img src='/images/500x300.png'>"
+excerpt: "Detection of Stair Lift Components using Roboflow and the YOLOv5 algorithm.<br/><img src='/images/Screenshot from 2023-10-27 12-10-17.png'>"
 collection: portfolio
 ---
 
