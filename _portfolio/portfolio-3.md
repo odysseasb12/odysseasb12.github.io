@@ -1,7 +1,8 @@
 ---
-title: "Final Year Project"
-excerpt: "Detection of Stair Lift Components using Roboflow and the YOLOv5 algorithm.<br/><img src='/images/Screenshot from 2023-10-27 12-10-17.png'>"
+title: "Integrated Design Project"
+excerpt: "Sustainable Island <br/><img src='/images/Screenshot from 2023-10-27 12-37-08.png'> <br/><img src='/images/Screenshot from 2023-10-27 12-37-35.png'>"
 collection: portfolio
 ---
 
-An in depth-exploration and comparison of the five versions of YOLOv5 namely, YOLOv5n, YOLOv5s, YOLOv5s, YOLOv5l, and YOLOv5x. The project gives detailed information on Convolutional Neural Networks (CNNs) and how they operate to detect objects and features in an image. A model was developed to test which YOLOv5 version fits best smaller data sets taking into consideration the computational time and accuracy of the detections. To read more about this project follow the link:[here](https://github.com/odysseasb12/odysseasb12.github.io/blob/master/files/annotated-FInal%20Submission%20FYP-1.pdf)
+The group project attached below was consisted of 30 engineers across all disciplines given a challenge to develop a sustainable island that would harness solar, wind, and wave energy. The location was picked to be in Australia where it combined the best conditions for all three sources of energy. [here](https://github.com/odysseasb12/odysseasb12.github.io/blob/master/files/annotated-IDP3_Team%203_Final.pdf)
+
