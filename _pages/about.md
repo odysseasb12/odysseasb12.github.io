@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello and Welcome to my Webpage 👋"
+title: "Hello and Welcome to my Webpage "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -18,17 +18,17 @@ I am particularly interested in programming languages such as Python, C, and Mat
 More About Me
 ======
 
-In July 2023 I graduated with honours from the University of Birmingham 🎓🎓🎓
+In July 2023 I graduated with honours from the University of Birmingham 
 
-My undergraduate degree was on Mechanical Enginnering ⚙️⚙️⚙️
+My undergraduate degree was on Mechanical Enginnering 
 
-I achieved a first with an overall GPA of 3.75 or 70% and particularly exceeded in the Engineering Mathematics, Electrical Engineering, Mechanical Design, Integrated Design Projects, and Computational Fluid Dynamics modules as well as my thesis. 📚📚📚
+I achieved a first with an overall GPA of 3.75 or 70% and particularly exceeded in the Engineering Mathematics, Electrical Engineering, Mechanical Design, Integrated Design Projects, and Computational Fluid Dynamics modules as well as my thesis. 
 
-My thesis was on Robotics for Medical Device Inspection, where I deployed an object detection model to successfully detect the different components of a stairlift device. For the deployment of my model I acquired a data set and trained it using Roboflow while also I implemented the YOLOv5 algorithm. 🤖🤖🤖
+My thesis was on Robotics for Medical Device Inspection, where I deployed an object detection model to successfully detect the different components of a stairlift device. For the deployment of my model I acquired a data set and trained it using Roboflow while also I implemented the YOLOv5 algorithm. 
 
-I also undertook in field working experience on a 20MW solar farm as part of my summer internship. ⚡🔋🌞  
+I also undertook in field working experience on a 20MW solar farm as part of my summer internship.  
 
-I am also passionate about sports. I have played basketball for more than 7 years where I participated in the Birmingham's University Team managing to win the league.🏀🏀🏀
+I am also passionate about sports. I have played basketball for more than 7 years where I participated in the Birmingham's University Team managing to win the league.
 
 Explore
 ======
