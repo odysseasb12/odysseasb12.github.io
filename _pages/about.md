@@ -41,8 +41,10 @@ In my short stay there, I was part of a small group to cover all the electrical 
 
 Skills
 ======
-
-
+images/Screenshot from 2024-04-08 19-01-01.png
+![Python Logo](/images/Screenshot from 2024-04-08 19-01-01.png){: .align-left width="50px"}
+![C Logo](/images/Screenshot from 2024-04-08 19-01-01.png){: .align-left width="50px"}
+![Matlab Logo](/images/Screenshot from 2024-04-08 19-01-01.png){: .align-left width="50px"}
 
 
 Extracurricular Activities
