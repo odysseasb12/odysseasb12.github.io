@@ -11,6 +11,8 @@ redirect_from:
 
 My name is Odysseas Bouziotis and I am a postgraduate student at the University of Manchester.
 
+![University of Manchester Logo](/images/Screenshot from 2024-04-08 18-14-26.png){: .align-right width="300px"}
+
 I am studying MSc Robotics and expected to graduate in December of 2024 (Course completion in September of 2024).
 
 I have a strong desire to enhance my knowledge in Computer Vision, Autonomous Systems, Machine Learning (ML), Convolutional Neural Networks (CNNs), and Object Detection. 
