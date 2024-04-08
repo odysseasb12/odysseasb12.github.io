@@ -41,11 +41,10 @@ In my short stay there, I was part of a small group to cover all the electrical 
 
 Skills
 ======
-images/Screenshot from 2024-04-08 19-01-01.png
-1 ![Python Logo](/images/Screenshot from 2024-04-08 19-01-01.png){: width="50px"}
-2 ![C Logo](/images/Screenshot from 2024-04-08 19-01-56.png){: width="50px"}
-3 ![Matlab Logo](/images/Screenshot from 2024-04-08 19-02-22.png){: width="50px"}
-#4 ![Matlab Logo](/images/Screenshot from 2024-04-08 19-03-09.png){: width="50px"}
+1 ![Python Logo](/images/Screenshot from 2024-04-08 19-01-01.png){: width="60px"}
+2 ![C Logo](/images/Screenshot from 2024-04-08 19-01-56.png){: width="40px"}
+3 ![Matlab Logo](/images/Screenshot from 2024-04-08 19-02-22.png){: width="70px"}
+#4 ![Matlab Logo](/images/Screenshot from 2024-04-08 19-03-09.png){: width="80px"}
 #5 ![Matlab Logo](/images/Screenshot from 2024-04-08 19-03-09.png){: width="50px"}
 #6 ![Matlab Logo](/images/Screenshot from 2024-04-08 19-03-09.png){: width="50px"}
 #7 ![Matlab Logo](/images/Screenshot from 2024-04-08 19-03-09.png){: width="50px"}
