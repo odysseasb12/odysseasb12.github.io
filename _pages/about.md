@@ -25,7 +25,7 @@ In July 2023 I graduated with honours from the University of Birmingham.
 
 There I undertook a 3-years course in Mechanical Engineering (BEng).
 
-![University of Birmingham Logo](/images/Screenshot from 2024-04-08 18-14-26.png){: .align-right width="300px"}
+![University of Birmingham Logo](/images/Screenshot from 2024-04-08 18-16-47.png){: .align-right width="300px"}
 
 I achieved a first with an overall GPA of 3.75 or 70% and particularly exceeded in modules such as the Engineering Mathematics, Electrical Engineering, Mechanical Design, Integrated Design Projects, and Computational Fluid Dynamics modules as well as my thesis. 
 
