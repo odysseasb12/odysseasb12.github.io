@@ -35,7 +35,7 @@ and Computational Fluid Dynamics.
 The title of my thesis was "Robotics for Medical Device Inspection". As part of my project I had to deploy an object detection model to detect the different components of a stairlift device (medical component). For the development of the model I created a custom dataset and used Roboflow to make it more robust by annotating components, using augmentation techniques and perform further image processing. The algorithm implemented to train the model was YOLOv5.   
 
 ![Switch On Ltd Logo](/images/Screenshot from 2024-04-08 18-17-42.png){: .align-right width="250px"}
-In the summer of 2023 I gladly joined the family of "Switch On Ltd" to gain experience under a 5-week internship program. In my short stay there, I was part of a small group to cover all the electrical connections needed in a 20MW solar farm located close to Blandford Forum south of the UK.   
+In the summer of 2023 I joined the family of "Switch On Ltd" to gain experience under a 5-week internship program. In my short stay there, I was part of a small group to cover all the electrical connections needed in a 20MW solar farm located close to Blandford Forum south of the UK.   
 
 Extracurricular Activities
 ======
