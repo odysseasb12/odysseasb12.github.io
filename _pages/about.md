@@ -39,6 +39,12 @@ The title of my thesis was "Robotics for Medical Device Inspection". As part of 
 In the summer of 2023 I joined the family of "Switch On Ltd" to gain experience under a 5-week internship program. 
 In my short stay there, I was part of a small group to cover all the electrical connections needed in a 20MW solar farm.
 
+Skills
+======
+
+
+
+
 Extracurricular Activities
 ======
 
