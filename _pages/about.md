@@ -43,8 +43,9 @@ Skills
 ======
 images/Screenshot from 2024-04-08 19-01-01.png
 ![Python Logo](/images/Screenshot from 2024-04-08 19-01-01.png){: .align-left width="50px"}
-![C Logo](/images/Screenshot from 2024-04-08 19-01-01.png){: .align-left width="50px"}
-![Matlab Logo](/images/Screenshot from 2024-04-08 19-01-01.png){: .align-left width="50px"}
+![C Logo](/images/Screenshot from 2024-04-08 19-01-56.png){: .align-center width="50px"}
+![Matlab Logo](/images/Screenshot from 2024-04-08 19-02-22.png){: .align-right width="50px"}
+![Matlab Logo](/images/Screenshot from 2024-04-08 19-03-09.png){: .align-left width="50px"}
 
 
 Extracurricular Activities
