@@ -9,8 +9,9 @@ redirect_from:
 ---
 
 
-![University of Manchester Logo](/images/Screenshot from 2024-04-08 18-14-26.png){: .align-right width="250px"}
 My name is Odysseas Bouziotis and I am a postgraduate student at the University of Manchester.
+
+![University of Manchester Logo](/images/Screenshot from 2024-04-08 18-14-26.png){: .align-right width="250px"}
 
 I am studying MSc Robotics and expected to graduate in December of 2024 (Course completion in September of 2024).
 
@@ -22,9 +23,9 @@ More About Me
 
 In July 2023 I graduated with honours from the University of Birmingham.
 
-3-years course in Mechanical Engineering (BEng).
-
 ![University of Birmingham Logo](/images/Screenshot from 2024-04-08 18-16-47.png){: .align-right width="250px"}
+
+3-years course in Mechanical Engineering (BEng).
 
 I achieved a first with an overall GPA of 3.75 or 70%.
 Particularly exceeded in modules such as:
