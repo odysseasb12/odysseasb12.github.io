@@ -25,6 +25,8 @@ In July 2023 I graduated with honours from the University of Birmingham.
 
 There I undertook a 3-years course in Mechanical Engineering (BEng).
 
+![University of Birmingham Logo](/images/Screenshot from 2024-04-08 18-14-26.png){: .align-right width="300px"}
+
 I achieved a first with an overall GPA of 3.75 or 70% and particularly exceeded in modules such as the Engineering Mathematics, Electrical Engineering, Mechanical Design, Integrated Design Projects, and Computational Fluid Dynamics modules as well as my thesis. 
 
 The title of my thesis was "Robotics for Medical Device Inspection". As part of my project I had to deploy an object detection model to detect the different components of a stairlift device (medical component). For the development of the model I created a custom dataset and used Roboflow to make it more robust by annotating components, using augmentation techniques and perform further image processing. The algorithm implemented to train the model was YOLOv5.   
