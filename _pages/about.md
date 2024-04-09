@@ -43,21 +43,21 @@ Skills
 ======
  ![Python Logo](/images/Screenshot from 2024-04-08 19-01-01.png){: width="60px"}
  ![C Logo](/images/Screenshot from 2024-04-08 19-01-56.png){: width="40px"}
- ![Matlab Logo](/images/Screenshot from 2024-04-08 19-02-22.png){: width="70px"}
- ![Fusion Logo](/images/Screenshot from 2024-04-08 19-03-09.png){: width="80px"}
- ![Matlab Logo](/images/Screenshot from 2024-04-08 19-04-04.png){: width="50px"}
- ![Matlab Logo](/images/Screenshot from 2024-04-08 19-04-19.png){: width="50px"}
- ![Matlab Logo](/images/Screenshot from 2024-04-08 19-04-43.png){: width="50px"}
- ![Matlab Logo](/images/Screenshot from 2024-04-08 19-04-55.png){: width="50px"}
- ![Matlab Logo](/images/Screenshot from 2024-04-08 19-05-18.png){: width="50px"}
- ![Matlab Logo](/images/Screenshot from 2024-04-08 19-06-03.png){: width="50px"}
- ![Matlab Logo](/images/Screenshot from 2024-04-08 19-06-15.png){: width="50px"}
- ![Matlab Logo](/images/Screenshot from 2024-04-08 19-07-26.png){: width="50px"}
- ![Matlab Logo](/images/Screenshot from 2024-04-08 19-07-46.png){: width="50px"}
- ![Matlab Logo](/images/Screenshot from 2024-04-08 19-08-05.png){: width="50px"}
- ![Matlab Logo](/images/Screenshot from 2024-04-08 19-08-22.png){: width="50px"}
- ![Matlab Logo](/images/Screenshot from 2024-04-08 19-09-18.png){: width="50px"}
- ![Matlab Logo](/images/Screenshot from 2024-04-08 19-09-39.png){: width="50px"}
+ ![Matlab Logo](/images/Screenshot from 2024-04-08 19-02-22.png){: width="100px"}
+ ![Fusion Logo](/images/Screenshot from 2024-04-08 19-03-09.png){: width="100px"}
+ ![SolidWorks Logo](/images/Screenshot from 2024-04-08 19-04-04.png){: width="50px"}
+ ![Excel Logo](/images/Screenshot from 2024-04-08 19-04-19.png){: width="50px"}
+ ![Word Logo](/images/Screenshot from 2024-04-08 19-04-43.png){: width="50px"}
+ ![Powerpoint Logo](/images/Screenshot from 2024-04-08 19-04-55.png){: width="50px"}
+ ![Abaqus Logo](/images/Screenshot from 2024-04-08 19-05-18.png){: width="70px"}
+ ![Workbench Logo](/images/Screenshot from 2024-04-08 19-06-03.png){: width="70px"}
+ ![ROS2 Logo](/images/Screenshot from 2024-04-08 19-06-15.png){: width="100px"}
+ ![Edupack Logo](/images/Screenshot from 2024-04-08 19-07-26.png){: width="100px"}
+ ![Gazebo Logo](/images/Screenshot from 2024-04-08 19-07-46.png){: width="100px"}
+ ![Colab Logo](/images/Screenshot from 2024-04-08 19-08-05.png){: width="50px"}
+ ![Jupyter Logo](/images/Screenshot from 2024-04-08 19-08-22.png){: width="50px"}
+ ![VSC Logo](/images/Screenshot from 2024-04-08 19-09-18.png){: width="50px"}
+ ![Codeblocks Logo](/images/Screenshot from 2024-04-08 19-09-39.png){: width="50px"}
 
 Extracurricular Activities
 ======
