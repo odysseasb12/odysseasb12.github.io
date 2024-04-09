@@ -39,6 +39,8 @@ The title of my thesis was "Robotics for Medical Device Inspection". As part of 
 In the summer of 2023 I joined the family of "Switch On Ltd" to gain experience under a 5-week internship program. 
 In my short stay there, I was part of a small group to cover all the electrical connections needed in a 20MW solar farm.
 
+I am also very passionate about sports. From a very young age I joined a football academy at my hometwon where I played for more than 5 years. At my teenage years, I transitioned to basketball where I competed in the school's league which rewarded me with unforgettable memories. Finally, I continued my basketball journey at the University of Birmingham where as team we managed to qualify in the 3rd division of the BUCS league.  
+
 Skills
 ======
  ![Python Logo](/images/Screenshot from 2024-04-08 19-01-01.png){: width="60px"}
@@ -54,15 +56,11 @@ Skills
  ![ROS2 Logo](/images/Screenshot from 2024-04-08 19-06-15.png){: width="100px"}
  ![Edupack Logo](/images/Screenshot from 2024-04-08 19-07-26.png){: width="100px"}
  ![Gazebo Logo](/images/Screenshot from 2024-04-08 19-07-46.png){: width="100px"}
- ![Colab Logo](/images/Screenshot from 2024-04-08 19-08-05.png){: width="50px"}
+ ![Colab Logo](/images/Screenshot from 2024-04-08 19-08-05.png){: width="65px"}
  ![Jupyter Logo](/images/Screenshot from 2024-04-08 19-08-22.png){: width="50px"}
  ![VSC Logo](/images/Screenshot from 2024-04-08 19-09-18.png){: width="50px"}
- ![Codeblocks Logo](/images/Screenshot from 2024-04-08 19-09-39.png){: width="50px"}
+ ![Codeblocks Logo](/images/Screenshot from 2024-04-08 19-09-39.png){: width="80px"}
 
-Extracurricular Activities
-======
-
-I am also very passionate about sports. From a very young age I joined a football academy at my hometwon where I played for more than 5 years. At my teenage years, I transitioned to basketball where I competed in the school's league which rewarded me with unforgettable memories. Finally, I continued my basketball journey at the University of Birmingham where as team we managed to qualify in the 3rd division of the BUCS league.  
 
 Explore
 ======
