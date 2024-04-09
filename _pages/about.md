@@ -61,7 +61,7 @@ Skills
  ![Jupyter Logo](/images/Screenshot from 2024-04-08 19-08-22.png){: width="50px"}
  ![VSC Logo](/images/Screenshot from 2024-04-08 19-09-18.png){: width="50px"}
  ![Codeblocks Logo](/images/Screenshot from 2024-04-08 19-09-39.png){: width="100px"}
- ![Pycharm Logo](/images/Screenshot from 2024-04-09 18-58-29.png){: width="80px"}
+ ![Pycharm Logo](/images/Screenshot from 2024-04-09 18-58-29.png){: width="50px"}
 
 Explore
 ======
