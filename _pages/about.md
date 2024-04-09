@@ -13,10 +13,11 @@ My name is Odysseas Bouziotis and I am a postgraduate student at the University 
 
 ![University of Manchester Logo](/images/Screenshot from 2024-04-08 18-14-26.png){: .align-right width="250px"}
 
-I am studying MSc Robotics and expected to graduate in December of 2024 (Course completion in September of 2024).
+I am currently studying MSc Robotics and expected to graduate in December 2024 (Course completion in September 2024).
 
-I have a strong desire to enhance my knowledge in Computer Vision, Autonomous Systems, Machine Learning (ML), Convolutional Neural Networks (CNNs), and Object Detection. 
-I have a solid background in programming languages such as Python, C, and Matlab.
+I am a proactive engineer that constantly seeks new challenges to grow both as a person and as a professional. 
+I have a strong desire to enhance my knowledge in Computer Vision, Autonomous Systems, Machine Learning (ML), 
+Convolutional Neural Networks (CNNs), and Object Detection. 
 
 More About Me
 ======
@@ -25,9 +26,9 @@ In July 2023 I graduated with honours from the University of Birmingham.
 
 ![University of Birmingham Logo](/images/Screenshot from 2024-04-08 18-16-47.png){: .align-right width="250px"}
 
-3-years course in Mechanical Engineering (BEng).
+I Completed the Mechanical Engineering (BEng) degree programme.
 
-I achieved a first with an overall GPA of 3.75 or 70%.
+Achieved a first class grade with an overall GPA of 3.75 or 70%.
 Particularly exceeded in modules such as:
 Engineering Mathematics, Electrical Engineering,
 Mechanical Design, Integrated Design Projects,
@@ -64,7 +65,7 @@ Skills
 
 Explore
 ======
-To further explore about projects that I have undertaken in the past, refer to my personal portfolio for more information. If you want more details about my education, work experience and what I have done so far please refer to my CV.
+To further explore about projects that I have undertaken in the past, refer to my personal portfolio for more information. If you want more details about my education, work experience and extracurricular activities refer to my CV.
 
 Contact Details
 ======
