@@ -53,7 +53,7 @@ Skills
  ![Word Logo](/images/Screenshot from 2024-04-08 19-04-43.png){: width="50px"}
  ![Powerpoint Logo](/images/Screenshot from 2024-04-08 19-04-55.png){: width="50px"}
  ![Abaqus Logo](/images/Screenshot from 2024-04-08 19-05-18.png){: width="70px"}
- ![Workbench Logo](/images/Screenshot from 2024-04-08 19-06-03.png){: width="90px"}
+ ![Workbench Logo](/images/Screenshot from 2024-04-08 19-06-03.png){: width="80px"}
  ![ROS2 Logo](/images/Screenshot from 2024-04-08 19-06-15.png){: width="100px"}
  ![Edupack Logo](/images/Screenshot from 2024-04-08 19-07-26.png){: width="100px"}
  ![Gazebo Logo](/images/Screenshot from 2024-04-08 19-07-46.png){: width="100px"}
