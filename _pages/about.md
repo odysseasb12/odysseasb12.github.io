@@ -41,23 +41,23 @@ In my short stay there, I was part of a small group to cover all the electrical 
 
 Skills
 ======
-1 ![Python Logo](/images/Screenshot from 2024-04-08 19-01-01.png){: width="60px"}
-2 ![C Logo](/images/Screenshot from 2024-04-08 19-01-56.png){: width="40px"}
-3 ![Matlab Logo](/images/Screenshot from 2024-04-08 19-02-22.png){: width="70px"}
-#4 ![Matlab Logo](/images/Screenshot from 2024-04-08 19-03-09.png){: width="80px"}
-#5 ![Matlab Logo](/images/Screenshot from 2024-04-08 19-03-09.png){: width="50px"}
-#6 ![Matlab Logo](/images/Screenshot from 2024-04-08 19-03-09.png){: width="50px"}
-#7 ![Matlab Logo](/images/Screenshot from 2024-04-08 19-03-09.png){: width="50px"}
-#8 ![Matlab Logo](/images/Screenshot from 2024-04-08 19-03-09.png){: width="50px"}
-#9 ![Matlab Logo](/images/Screenshot from 2024-04-08 19-03-09.png){: width="50px"}
-#10 ![Matlab Logo](/images/Screenshot from 2024-04-08 19-03-09.png){: width="50px"}
-#11 ![Matlab Logo](/images/Screenshot from 2024-04-08 19-03-09.png){: width="50px"}
-#12 ![Matlab Logo](/images/Screenshot from 2024-04-08 19-03-09.png){: width="50px"}
-#13 ![Matlab Logo](/images/Screenshot from 2024-04-08 19-03-09.png){: width="50px"}
-#14 ![Matlab Logo](/images/Screenshot from 2024-04-08 19-03-09.png){: width="50px"}
-#15 ![Matlab Logo](/images/Screenshot from 2024-04-08 19-03-09.png){: width="50px"}
-#16 ![Matlab Logo](/images/Screenshot from 2024-04-08 19-03-09.png){: width="50px"}
-#17 ![Matlab Logo](/images/Screenshot from 2024-04-08 19-03-09.png){: width="50px"}
+ ![Python Logo](/images/Screenshot from 2024-04-08 19-01-01.png){: width="60px"}
+ ![C Logo](/images/Screenshot from 2024-04-08 19-01-56.png){: width="40px"}
+ ![Matlab Logo](/images/Screenshot from 2024-04-08 19-02-22.png){: width="70px"}
+ ![Fusion Logo](/images/Screenshot from 2024-04-08 19-03-09.png){: width="80px"}
+ ![Matlab Logo](/images/Screenshot from 2024-04-08 19-04-04.png){: width="50px"}
+ ![Matlab Logo](/images/Screenshot from 2024-04-08 19-04-19.png){: width="50px"}
+ ![Matlab Logo](/images/Screenshot from 2024-04-08 19-04-43.png){: width="50px"}
+ ![Matlab Logo](/images/Screenshot from 2024-04-08 19-04-55.png){: width="50px"}
+ ![Matlab Logo](/images/Screenshot from 2024-04-08 19-05-18.png){: width="50px"}
+ ![Matlab Logo](/images/Screenshot from 2024-04-08 19-06-03.png){: width="50px"}
+ ![Matlab Logo](/images/Screenshot from 2024-04-08 19-06-15.png){: width="50px"}
+ ![Matlab Logo](/images/Screenshot from 2024-04-08 19-07-26.png){: width="50px"}
+ ![Matlab Logo](/images/Screenshot from 2024-04-08 19-07-46.png){: width="50px"}
+ ![Matlab Logo](/images/Screenshot from 2024-04-08 19-08-05.png){: width="50px"}
+ ![Matlab Logo](/images/Screenshot from 2024-04-08 19-08-22.png){: width="50px"}
+ ![Matlab Logo](/images/Screenshot from 2024-04-08 19-09-18.png){: width="50px"}
+ ![Matlab Logo](/images/Screenshot from 2024-04-08 19-09-39.png){: width="50px"}
 
 Extracurricular Activities
 ======
