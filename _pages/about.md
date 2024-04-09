@@ -40,7 +40,7 @@ The title of my thesis was "Robotics for Medical Device Inspection". As part of 
 In the summer of 2023 I joined the family of "Switch On Ltd" to gain experience under a 5-week internship program. 
 In my short stay there, I was part of a small group to cover all the electrical connections needed in a 20MW solar farm.
 
-I am also very passionate about sports. From a very young age I joined a football academy at my hometwon where I played for more than 5 years. At my teenage years, I transitioned to basketball where I competed in the school's league which rewarded me with unforgettable memories. Finally, I continued my basketball journey at the University of Birmingham where as team we managed to qualify in the 3rd division of the BUCS league.  
+I am also very passionate about sports. From a very young age I joined a football academy at my hometwon where I played for more than 5 years. At my teenage years, I transitioned to basketball and competed in my school's local league. Finally, I continued my basketball journey at the University of Birmingham where we managed to qualify in the next division of the BUCS league for two consecutive years.  
 
 Skills
 ======
