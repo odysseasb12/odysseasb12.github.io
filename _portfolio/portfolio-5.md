@@ -1,6 +1,6 @@
 ---
 title: "Robotic Systems"
-excerpt: "LiDaR <br/><video src="files/CW_2_VIDEO.mp4">"
+excerpt: "LiDaR <br/><video src='files/CW_2_VIDEO.mp4'>"
 collection: portfolio
 ---
 
