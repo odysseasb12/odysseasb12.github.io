@@ -1,6 +1,6 @@
 ---
 title: "Robotic Systems"
-excerpt: "LiDaR <br/><video src ="files/CW_2_VIDEO.mp4" width="320" height="240" controls> Video not supported </video>
+excerpt: "LiDaR <br/><video src ='files/CW_2_VIDEO.mp4' width="320" height="240" controls> Video not supported </video>
 collection: portfolio
 ---
 
