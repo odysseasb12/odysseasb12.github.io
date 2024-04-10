@@ -62,8 +62,7 @@ Skills
  ![VSC Logo](/images/Screenshot from 2024-04-08 19-09-18.png){: width="50px"}
  ![Codeblocks Logo](/images/Screenshot from 2024-04-08 19-09-39.png){: width="100px"}
  ![Pycharm Logo](/images/Screenshot from 2024-04-09 18-58-29.png){: width="50px"}
- ![RVIZ Logo](/images/Screenshot from 2024-04-10 15-32-57.png){: width="40px"}
- images/Screenshot from 2024-04-10 15-32-57.png
+ ![RVIZ Logo](/images/Screenshot from 2024-04-10 15-32-57.png){: width="60px"}
 
 Explore
 ======
