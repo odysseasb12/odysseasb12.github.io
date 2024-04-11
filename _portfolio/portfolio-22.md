@@ -1,6 +1,6 @@
 ---
-title: "Robotic Systems"
-excerpt: "LiDaR <br/><img src='/files/molybdenum.gif'>"
+title: "Software for Robotics"
+excerpt: "<br/><img src='/files/molybdenum.gif'>"
 collection: portfolio
 ---
 
