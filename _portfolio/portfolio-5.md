@@ -1,6 +1,6 @@
 ---
 title: "Robotic Systems"
-excerpt: "LiDaR <br/><img src='/files/path_finder_2.gif'>"
+excerpt: "LiDaR <br/><img src='/files/pathfndr.gif'>"
 collection: portfolio
 ---
 
