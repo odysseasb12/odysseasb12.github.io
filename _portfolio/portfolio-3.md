@@ -1,5 +1,5 @@
 ---
-title: "Integrated Design Project"
+title: "Integrated Design Project 3"
 excerpt: "<br/><img src='/files/panel.gif'> <br/>"
 collection: portfolio
 ---
