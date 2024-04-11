@@ -1,6 +1,6 @@
 ---
 title: "Integrated Design Project"
-excerpt: "Sustainable Island <br/><img src='/files/panel.gif'> <br/>"
+excerpt: "<br/><img src='/files/panel.gif'> <br/>"
 collection: portfolio
 ---
 
