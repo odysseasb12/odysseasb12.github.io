@@ -63,6 +63,8 @@ Skills
  ![Codeblocks Logo](/images/Screenshot from 2024-04-08 19-09-39.png){: width="100px"}
  ![Pycharm Logo](/images/Screenshot from 2024-04-09 18-58-29.png){: width="50px"}
  ![RVIZ Logo](/images/Screenshot from 2024-04-10 15-32-57.png){: width="60px"}
+ ![Roboflow Logo](/images/Screenshot from 2024-04-11 17-48-24.png){: width="50px"}
+ ![Pytorch Logo](/images/Screenshot from 2024-04-11 17-48-44.png){: width="60px"}
 
 Explore
 ======
