@@ -1,6 +1,6 @@
 ---
 title: "Mechanical Design"
-excerpt: "Gearbox Design and Drawings  <br/><img src='/files/gearbox.gif'>"
+excerpt: "<br/><img src='/files/gearbox.gif'>"
 collection: portfolio
 ---
 
