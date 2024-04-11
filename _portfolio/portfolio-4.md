@@ -1,6 +1,6 @@
 ---
 title: "Integrated Design Project 2"
-excerpt: "Direct Air Capture Facility <br/><img src='/files/dac2.gif'>"
+excerpt: "Direct Air Capture Facility <br/><img src='/files/dac3.gif'>"
 collection: portfolio
 ---
 
