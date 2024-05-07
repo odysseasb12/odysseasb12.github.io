@@ -1,12 +1,7 @@
 ---
-title: "Research Video"
+title: "[Research Video](https://www.youtube.com/watch?v=fz9YKaWj1qI)"
 collection: portfolio
 ---
-
-[Research Video](https://www.youtube.com/watch?v=fz9YKaWj1qI)
-
-
-
 
 [Promotional Video-Group4](https://www.youtube.com/watch?v=Z31ONMlVeXw)
 
