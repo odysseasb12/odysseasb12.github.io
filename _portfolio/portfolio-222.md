@@ -1,5 +1,4 @@
 ---
-title: "[Software for Robotics](https://github.com/odysseasb12/Software-for-Robotics)"
-excerpt: "<br/><img src='/files/molybdenum.gif'>"
+excerpt: "<br/><img src='images/Screenshot from 2024-05-08 15-05-45.png'>"
 collection: portfolio
 ---
