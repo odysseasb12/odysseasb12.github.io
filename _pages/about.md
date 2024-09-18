@@ -9,15 +9,15 @@ redirect_from:
 ---
 
 
-My name is Odysseas Bouziotis and I am a postgraduate student at the University of Manchester.
+My name is Odysseas Bouziotis and I just completed my postgraduate studies at the University of Manchester.
 
 ![University of Manchester Logo](/images/Screenshot from 2024-04-08 18-14-26.png){: .align-right width="250px"}
 
-I am currently studying MSc Robotics and expected to graduate in December 2024 (Course completion in September 2024).
+I studied MSc Robotics and expected to graduate in December 2024 (Course completion in 2nd of September 2024).
 
 I am a proactive engineer that constantly seeks new challenges to grow both as a person and as a professional. 
-I have a strong desire to enhance my knowledge in Computer Vision, Autonomous Systems, Machine Learning (ML), 
-Convolutional Neural Networks (CNNs), and Object Detection. 
+I have a strong desire to enhance my knowledge in Autonomous Systems, Control Systems, Embedded Systems, SLAM systems, and Autonomous Navigation.
+
 
 More About Me
 ======
@@ -30,15 +30,15 @@ I Completed the Mechanical Engineering (BEng) degree programme.
 
 Achieved a first class grade with an overall GPA of 3.75 or 70%.
 Particularly exceeded in modules such as:
-Engineering Mathematics, Electrical Engineering,
-Mechanical Design, Integrated Design Projects,
-and Computational Fluid Dynamics.
+Fluid Mechanics and Energy Transfer, CFD and FEA,
+Mechatronics and Control Engineering, Powertrain
+and Vehicle Engineering, and Sustainable Energy and the Environment.
 
-The title of my thesis was "Robotics for Medical Device Inspection". As part of my project I had to deploy an object detection model to detect the different components of a stairlift device (medical component). For the development of the model I created a custom dataset and used Roboflow to make it more robust by annotating components, using augmentation techniques and perform further image processing. The algorithm implemented to train the model was YOLOv5.   
+The title of my BEng dissertation was "Robotics for Medical Device Inspection". As part of my project, I had to deploy an object detection model to detect different components in a stairlift device (medical component). To develop a robust model, I created a custom dataset and by utilising Roboflow I applied augmentation techniques to the images such as changing the brightness level, adding noise, scaling, and blurring. The performed predictions were made from the implemented YOLOv5 algorithm and its sub-architectures. 
 
 ![Switch On Ltd Logo](/images/Screenshot from 2024-04-08 18-17-42.png){: .align-right width="250px"}
-In the summer of 2023 I joined the [Switch On Ltd](https://www.switchonpower.co.uk/) company to gain experience under a 5-week internship program. 
-In my short stay there, I was part of a small group to cover all the electrical connections needed in a 20MW solar farm.
+In the summer of 2023 I joined the [Switch On Ltd](https://www.switchonpower.co.uk/) company to gain experience under a 6-week internship program. 
+I was part of a 12-member group, dedicated to cover all the electrical connections needed in a 20MW solar farm.
 
 I am also very passionate about sports. From a very young age, I started playing football in local academies for more than 5 years. At my teenage years, I transitioned to basketball and continued to play at the University of Birmingham. In my first year, I was captain of the Development Team, while a year later I progressed to the 2nd Team where we managed to qualify in the next division of the BUCS league.  
 
@@ -68,7 +68,7 @@ Skills
 
 Explore
 ======
-To further explore about projects that I have undertaken in the past, refer to my personal portfolio for more information. If you want more details about my education, work experience and extracurricular activities refer to my CV.
+To further explore about projects that I have completed in the past, refer to my personal portfolio for more information. If you want more details about my education and work experience refer to my CV.
 
 Contact Details
 ======
